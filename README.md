@@ -12,3 +12,7 @@
 ## HackTheBox_Academy
 
 * Network Enumeration with Nmap
+
+## Pluralsight
+
+* Identify Common Cyber Network Attacks with Wireshark
