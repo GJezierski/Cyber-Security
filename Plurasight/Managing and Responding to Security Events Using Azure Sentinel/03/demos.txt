@@ -1,0 +1,7 @@
+https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-workbooks-101-with-sample-workbook/ba-p/1409216
+https://www.microsoft.com/security/blog/wp-content/uploads/2020/07/Azure-Sentinel-whitepaper.pdf
+https://techcommunity.microsoft.com/t5/azure-sentinel/best-practices-for-common-event-format-cef-collection-in-azure/ba-p/969990
+https://www.youtube.com/watch?v=7eYNaYSsk1A
+https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-security-center
+https://docs.microsoft.com/en-us/azure/sentinel/connect-aws
+https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory

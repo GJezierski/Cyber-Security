@@ -1,0 +1,4 @@
+https://github.com/marcusbakker/KQL/blob/master/kql_cheat_sheet.pdf
+https://docs.microsoft.com/en-us/azure/sentinel/tutorial-detect-threats-custom
+https://www.youtube.com/watch?v=pJjljBT4ipQ
+
