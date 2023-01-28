@@ -1,0 +1,10 @@
+https://news.microsoft.com/stories/cloud-security/#:~:text=Microsoft%20invests%20about%20%241%20billion,through%20Office%20365%20and%20Outlook.
+https://news.microsoft.com/en-hk/2020/01/16/four-key-trends-of-cybersecurity-in-2020/
+https://www.microsoft.com/security/blog/2017/08/02/5-reasons-why-microsoft-should-be-your-cybersecurity-ally/
+https://www.esg-global.com/research/esg-research-report-the-rise-of-cloud-based-security-analytics-and-operations-technologies
+https://www.cisco.com/c/dam/en/us/products/collateral/security/simplify-to-secure-report-cybersecurity-series-june-2020.pdf?CCID=cc000160&DTID=odicdc000509&OID=rptsc021685 
+https://www.saltstack.com/blog/the-power-of-secops-redefining-core-security-capabilities/#:~:text=SecOps%20(Security%20%2B%20Operations)%20is,risk%20and%20improve%20business%20agility.
+https://www.splunk.com/en_us/blog/security/too-many-security-alerts-not-enough-time-automation-to-the-rescue.html
+https://medium.com/@maarten.goet/what-is-this-microsoft-intelligent-security-graph-everybody-is-talking-about-d18d0072ea1b
+
+

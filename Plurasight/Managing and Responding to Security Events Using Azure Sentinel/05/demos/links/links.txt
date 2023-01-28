@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/azure/sentinel/hunting
+https://github.com/Azure/Azure-Sentinel
+https://docs.microsoft.com/en-us/azure/sentinel/tutorial-investigate-cases
