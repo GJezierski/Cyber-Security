@@ -1,6 +1,7 @@
 # Cyber-Security
 
 
+
 ## [Cybrary](https://www.cybrary.it)
 
 * Using Active Directory in the Enterprise Lab
@@ -25,5 +26,7 @@
 ## [Blue Team Labs](https://blueteamlabs.online) 
 | Name Link (notes) | Category | Progress |
 | :-: | :-: | :-:|
-| [Deep Blue]|  Incident Response | Solved |
+| Deep Blue |  Incident Response | Solved |
+| Phishing Analysis|  Security Operations | Solved |
+
 
