@@ -21,7 +21,9 @@
 
 * Practical_Malware_Analysis_&_Triage
 
+
 ## [Blue Team Labs](https://blueteamlabs.online) 
 | Name Link (notes) | Category | Progress |
 | :-: | :-: | :-:|
 | [Deep Blue]|  Incident Response | Solved |
+
