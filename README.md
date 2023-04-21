@@ -25,3 +25,6 @@
 | Name Link (notes) | Category | Progress |
 | :-: | :-: | :-:|
 | [Deep Blue]|  Incident Response | Solved |
+| [Phishing Analysis]|  Security Operations | Solved |
+
+
