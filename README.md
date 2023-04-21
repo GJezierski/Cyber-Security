@@ -21,5 +21,9 @@
 
 * Practical_Malware_Analysis_&_Triage
 
+## Blue Team Labs
+
+* Deep Blue - Incident Response
+
 
 
