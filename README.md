@@ -13,6 +13,8 @@
 ## [HackTheBox_Academy](https://academy.hackthebox.com)
 
 * Network Enumeration with Nmap
+* INTRODUCTION TO ACADEMY
+* WINDOWS FUNDAMENTALS
 
 ## [Pluralsight](https://www.pluralsight.com)
 
