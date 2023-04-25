@@ -26,5 +26,6 @@
 | :-: | :-: | :-:|
 | [Deep Blue]|  Incident Response | Solved |
 | [Phishing Analysis]|  Security Operations | Solved |
+| [Follina]|  Incident Response | Solved |
 
 
