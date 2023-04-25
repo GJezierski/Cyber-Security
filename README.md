@@ -26,7 +26,10 @@
 ## [Blue Team Labs](https://blueteamlabs.online) 
 | Name Link (notes) | Category | Progress |
 | :-: | :-: | :-:|
-| Deep Blue |  Incident Response | Solved |
-| Phishing Analysis|  Security Operations | Solved |
+
+| [Deep Blue]|  Incident Response | Solved |
+| [Phishing Analysis]|  Security Operations | Solved |
+| [Follina]|  Incident Response | Solved |
+
 
 
